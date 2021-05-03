@@ -1,16 +1,24 @@
 # reading-notes
-https://www.google.com/
-<learn more::http://wikipedia.com>
-<a learn more @ http://wikipedia.com>
-[learn more] [http://wikipedia.com]
-(learn more)[http://wikipedia.com]
-> dragonfly
+
+Hello!
+iam Duaa tarazi graduated from jordan university of scince and technology ,computer information system 2014,
+i have cute daughter,
+
+thank you  
 
 
 
+|content         |link            |
+
+|first page      |[groth minded](https://duaa-tarazi.github.io/reading-notes/grothminded) |
+
+|second page     |[]                                      |
 
 
-|content       |link    |
--------------------------
-|first page    |link    |
-|second page   |link    |
+
+| content  |      link     |  
+|----------|:-------------:|
+| Read01   |  [groth minded](https://duaa-tarazi.github.io/reading-notes/grothminded) | 
+| Read02   |    centered   |  
+| Read03   | right-aligned |   
+    
