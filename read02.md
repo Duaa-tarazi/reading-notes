@@ -12,7 +12,7 @@ Fetching entails pulling data that you don’t have from a remote project.
 
 **format:git fetch [remote-name]**
 
-##To push
+## To push
  your changes “upstream” for sharing, you would use the following git push command format:
 
 ** git push [remote-name][branch-name]**
