@@ -15,6 +15,6 @@ thank you
 | Read03b  | [Design web pages with CSS](https://duaa-tarazi.github.io/reading-notes/read03b)|	   
 |read4     |[Expressions and operators](https://duaa-tarazi.github.io/reading-notes/read4a)
 |Read04a   | [Dynamic web pages with JavaScript]()|
-| Read05   | [Operators and Loops]()|
+| Read05   | [Operators and Loops](https://duaa-tarazi.github.io/reading-notes/read05)|
 
 
