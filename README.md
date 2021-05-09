@@ -16,5 +16,6 @@ thank you
 |read4     |[Expressions and operators](https://duaa-tarazi.github.io/reading-notes/read4a)
 |Read04a   | [Dynamic web pages with JavaScript]()|
 | Read05   | [Operators and Loops](https://duaa-tarazi.github.io/reading-notes/read05)|
+|read06|[javascript function](https://duaa-tarazi.github.io/reading-notes/read06)|
 
 
